@@ -87,6 +87,9 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+## OUTPUT:
+<img width="548" height="866" alt="image" src="https://github.com/user-attachments/assets/f20a1555-6523-4ec8-be6b-79457d141a40" />
+
 
 <hr>
 <h3>Result:</h3>
